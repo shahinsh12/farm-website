@@ -1,0 +1,1202 @@
+@media (min-width: 320px) and (max-width: 575px)  {
+    #bottom-nav {
+        height: 100px;
+        
+    }
+    .nav-logo2 {
+        display: block;
+    }
+
+    #top-nav {
+        display: none;
+    }
+    .nav-logo {
+        display: none;
+    }
+    #bottom-nav {
+        border-top: solid 3px #ffce34;
+    }
+    .cafe-content {
+        flex-direction: column;
+    }
+    #banner {
+        height: 616px;
+    }
+    .banner-content h1 {
+        font-family: marketscript , sans-serif;
+        color: #ffffff;
+        font-size: 48px;
+        padding-bottom: 34px;
+        padding-top: 34px;
+    }
+   
+    .bottom-banner-content span {
+        display: none;
+    }
+    #bottom-banner {
+        padding: 35px 0;
+    }
+    .announce {
+        display: initial;
+    }
+    middle-h2 {
+        padding: 35px 0;
+    }
+    .announce p {
+        margin-left: 0px;
+        padding-top: 15px;
+    }
+    .press-logo img {
+        width: 30%;
+    }
+    .from-family h2 {
+        font-size: 36px;
+    }
+    .from-family p {
+        width: initial;
+    }
+    #farm-cafe {
+        height: 256px;
+        
+        margin-top: 90px;
+    }
+    .diamond-light-important p {
+        width: initial;
+    }
+    .gift-content {
+        flex-direction: column;
+    }
+    .table-image {
+        border-right: 0;
+        border-bottom: solid 1px #efc203;
+        padding: 35px 0px;
+        margin-top: 20px;
+    }
+    .diamond-light-farm p {
+        width: initial;
+    }
+    .gift-info {
+        width: initial;
+    }
+    .feature-image {
+        border-bottom: solid 1px #efc203;
+        border-right: 0;
+    }
+    .diamond-light-happy p {
+        width: initial;
+    }
+    .diamond-light-important h2:before {
+        width: 235px;
+    }
+    .diamond-light p {
+        width: initial;
+    }
+    .diamond-light h2:before {
+        width: 221px;
+    }
+    .diamond-light {
+        margin-top: 75%;
+        height: 752px;
+        padding-left: 30px;
+        padding-right: 20px;
+    }
+    .cafe-btn  {
+        text-align: center;
+    }
+    .cafe-btn a {
+        margin-right: 0;
+        margin-bottom: 15px;
+    }
+    
+
+
+    #farm-table {
+        padding-top: 12%;
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+    #eggplant {
+        margin-top: 241%;
+    }
+    .table-content:before {
+        
+        transform: translateX(0);
+        width: 100px;
+        left: 5px;
+    }
+    .table-content:after {
+        right: 5px;
+        transform: translateX(0);
+        width: 100px;
+
+        
+    }
+    #the-farm {
+        height: 223px;
+        margin-top: 45px;
+    }
+    .diamond-light-farm {
+        padding-left: 30px;
+        padding-right: 20px;
+        margin-top: 64%;
+        height: 550px;
+    }
+    #people {
+        padding-top: 182%;
+    }
+    .diamond-light-farm h2:before {
+        width: 250px;
+    }
+    .cafe-btn-farm {
+        text-align: center;
+    }
+    .people-content:before {
+        width: 113px;
+        left: 62%;
+        transform: translateX(-14%);
+    }
+    .people-content:after {
+        width: 113px;
+        right: 47%;
+        transform: translateX(-28%);
+    }
+    #gift {
+        padding-top: 70px;
+    }
+    .feature-content:before {
+        width: 97px;
+        left: 17%;
+    }
+    .feature-content:after {
+        width: 97px;
+        right: 2%;
+        transform: translateX(-2px);
+    }
+    .feature-image {
+        padding: 40px 0px;
+    }
+    .feature-btn a {
+        color: #e57b00;
+        background-color: initial;
+        width: initial;
+        height: initial;
+        border-radius: 5px;
+        padding: 0;
+        border-bottom: solid 1px;
+        border-radius: 0;
+    }
+    #feature {
+        padding-right: 20px;
+        padding-left: 20px;
+        padding-top: 50px;
+    }
+    #happy-place {
+        height: 225px;
+        margin-top: 25px;
+    }
+    .diamond-light-happy {
+        margin-top: 50%;
+        padding-left: 30px;
+        padding-right: 20px;
+        height: 921px;
+    }
+    .diamond-light-happy h2:before {
+        width: 100%;
+    }
+
+    #important-food {
+        margin-top: 289%;
+        height: 225px;
+    }
+    .diamond-light-important {
+        padding-left: 30px;
+        padding-right: 20px;
+        height: 854px;
+        margin-top: 65%;
+    }
+    .important-btn a {
+        padding-top: 50px;
+    }
+
+
+
+    
+        #box {
+            margin-top: 280%;
+            background-size: cover;
+            padding-top: 0;
+            padding-right: 20px;
+            padding-left: 20px;
+            background-position: right top;
+        }
+        .box-content {
+            border-right: none;
+            border-bottom: 1px solid var(--hlt_clr);
+            padding: 0;
+            padding-bottom: 80px;
+        }
+        .box-content h2 {
+            padding-top: 80px;
+        }
+        .footerbanner-content span {
+            display: none;
+        }
+
+        .footerbanner-content {
+            text-align: center !important;
+        }
+        #footerbanner {
+            height: 602px;
+            padding: 80px 0;
+        }
+        img.img-fluid.ftl {
+            display: none;
+        }
+        a.footer-mobile {
+            display: block;
+            border-bottom: none !important;
+            text-align: center;
+        }
+        a.footer-mobile img {
+            width: 150px;
+        }
+        #footer {
+            padding-top: 30px;
+        }
+        .footer-two ul li a {
+            border-bottom: solid 1px;
+            color: #e57b00;
+            font-weight: 700;
+        }
+        .banner-btn a {
+            display: block !important;
+            margin: auto !important;
+            
+        }
+        .banner-btn .banner-right {
+            margin-top: 20px !important;
+        }
+    
+    
+    
+    
+
+
+
+
+
+
+  
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    #bottom-nav {
+        height: 100px;
+        
+    }
+    
+    .nav-logo2 {
+        display: block;
+    }
+
+    #top-nav {
+        display: none;
+    }
+    .nav-logo {
+        display: none;
+    }
+    #bottom-nav {
+        border-top: solid 3px #ffce34;
+    }
+    #banner {
+        height: 400px;
+    }
+    .banner-content h1 {
+        font-size: 50px;
+    }
+    .bottom-banner-content span {
+        display: none;
+    }
+    #bottom-banner {
+        padding: 35px 0;
+    }
+    #bottom-banner h2 {
+        padding:0;
+        display: block;
+    }
+    .middle-h2 {
+        padding: 35px 0 !important;
+    }
+    .announce {
+        display: initial;
+    }
+    .announce p {
+        margin-left: 0px;
+        padding-top: 5px;
+    }
+    .press-logo {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .press-logo a {
+        width: 30%;
+        padding: 0;
+        margin: 6px 5px;
+    }
+    .from-family h2 {
+        margin-top: 60px;
+        font-size: 36px;
+        text-align: center;
+    }
+    #farm-cafe {
+        background-position: center top;
+        height: 300px;
+        margin-top: 80px;
+    }
+    .from-family p {
+        width: initial;
+    }
+    .cafe-content {
+        flex-direction: column;
+    }
+    .diamond-light {
+        width: 500px;
+        padding-left: 40px;
+        margin-top: 50%;
+        height: 525px;
+        border-radius: 5px;
+    }
+    .diamond-light p {
+        width: initial;
+    }
+    #eggplant {
+        margin-top: 95%;
+    }
+    #farm-table {
+        padding-top: 60px;
+    }
+    .table-content:after {
+        width: 180px;
+        right: 7%;
+        transform: translateX(-7%);
+    }
+    .table-content:before {
+        width: 180px;
+        left: 14%;
+        transform: translateX(-14%);
+    }
+    .table-image {
+        border-right: 0;
+        border-bottom: solid 1px var(--hlt_clr);
+        padding-bottom: 15px;
+    }
+    .diamond-light-farm {
+        width: 500px;
+        height: 405px;
+        margin-left: 0;
+        margin-top: 50%;
+        border-radius: 5px;
+    }
+    .diamond-light-farm p {
+        width: initial;
+    }
+    #the-farm {
+        height: 300px;
+        margin-top: 75px;
+    }
+    .people-content:before {
+        left: 19%;
+        transform: translateX(-19%);
+        top: 40%;
+    }
+    .people-content:after {
+        right: 10%;
+        top: 40%;
+        transform: translateX(-10%);
+    }
+    .people-review {
+        text-align: initial;
+    }
+    #gift {
+        padding-top: 68px;
+    }
+    .gift-content img {
+        object-fit: cover;
+    }
+    .gift-content {
+       /* flex-wrap: wrap;*/
+       flex-direction: column;
+    }
+    .gift-info {
+        width: 100%;
+        padding: 40px 80px;
+    }
+    #feature {
+        padding-top: 60px;
+    }
+    .feature-content:after {
+        right: 15%;
+        transform: translateX(-15%);
+    }
+    .feature-content:before {
+        left: 25%;
+        transform: translateX(-25%);
+    }
+    .feature-image {
+        border-right: 0;
+        border-bottom: solid 1px var(--hlt_clr);
+        text-align: center;
+        padding-bottom: 15px;
+        margin-top: 42px;
+        padding-bottom: 40px;
+    }
+    .feature-btn a {
+        color: #e57b00;
+        background-color: initial;
+        border-bottom: solid 1px ;
+        letter-spacing: 1.12px;
+        width: initial;
+        height: initial;
+        border-radius: 0;
+        padding: 0;
+    }
+    .diamond-light-happy {
+        margin-left: 0%;
+        margin-top: 50%;
+        width: 500px;
+        border-radius: 5px;
+        height: 565px
+    }
+    #happy-place {
+        height: 300px;
+        margin-top: 56px;
+    }
+    .diamond-light-happy h2 {
+        padding-top: 25px;
+    }
+    .diamond-light-happy p {
+        width: initial;
+        padding-top: 10px;
+    }
+    .diamond-light-happy h3 {
+        padding-top: 10px;
+    }
+
+
+
+    #important-food {
+        height: 300px;
+        margin-top: 105%;
+        background-position: center top;
+        background-size: cover;
+    }
+    .important-btn a {
+        padding-top: 60px;
+    }
+    .diamond-light-important {
+        margin-top: 50%;
+        width: 500px;
+        border-radius: 5px;
+        padding-left: 40px;
+        padding-right: 30px;
+        height: 582px;
+    }
+    .diamond-light-important p {
+        width: initial;
+    }
+
+
+
+
+    #people {
+        padding-top: 75%;
+    }
+    #box {
+        margin-top: 108%;
+        padding-top: 0;
+        background-size: cover;
+    }
+    .box-content {
+        border-right: 0;
+        border-bottom: 1px solid var(--hlt_clr);
+        padding-bottom: 45px;
+    }
+    .box-content h2 {
+        padding-top: 85px;
+    }
+    .footerbanner-content span {
+        display: none;
+    }
+    #footerbanner {
+        height: 400px;
+        padding: 50px 0px;
+    }
+    .footerbanner-content {
+        width: 100%;
+        text-align: center !important;
+    }
+    .ftl {
+        display: none;
+    }
+    .footer-mobile {
+        display: block;
+        border: 0 !important;
+        text-align: center;
+    }
+    .footer-two {
+        padding-left: 13px;
+    }
+    #footer h3 {
+        text-transform: uppercase;
+    }
+    .footer-two ul li a {
+        border-bottom: solid 1px;
+        color: #e57b00;
+    }
+    #footer {
+        padding-top: 30px;
+        padding-bottom: 60px;
+    }
+    
+
+
+   
+}
+
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    #bottom-nav {
+        height: 100px;
+        
+    }
+    
+    .bottom-banner-content span {
+        display: none;
+    }
+    .nav-logo2 {
+        display: block;
+    }
+
+    #top-nav {
+        display: none;
+    }
+    .nav-logo {
+        display: none;
+    }
+    #bottom-nav {
+        background: #FFFBF2;
+        border-top: solid 3px #ffce34;
+    }
+    #banner {
+        height: 400px;
+    }
+    .banner-content h1 {
+        font-size: 40px;
+    }
+    .banner-content h2 {
+        font-size: 18px;
+        padding-top: 15px;
+    }
+    .banner-btn .banner-left {
+        width: 165px;
+    }
+    #bottom-banner h2 {
+        font-size: 18px;
+    }
+    .announce p {
+        font-size: 12px;
+        line-height: 20px;
+        margin-left: 0;
+        margin-top: 10px;
+    }
+    .announce {
+        display: initial !important;
+    }
+    .from-family h2 {
+        font-size: 32px;
+        margin-top: 55px;
+    }
+    .from-family p {
+        font-size: 16px;
+        padding-top: 20px;
+        line-height: 25px;
+    }
+    #farm-cafe {
+        margin-top: 83px;
+        background-size: cover;
+        background-position: center;
+        height: 450px;
+    }
+    .diamond-light {
+     width: 650px;
+    height: 524px;
+    border-radius: 5px;
+    margin-top: 55%;
+    }
+    
+    .diamond-light p {
+        width: 460px;
+    }
+    #eggplant {
+        margin-top: 70%;
+    }
+    .cafe-content {
+        flex-direction: column;
+    }
+    .table-content:after {
+        right: 19%;
+        transform: translateX(-19%);
+        width: 160px;
+
+    }
+    .table-content:before {
+        left: 30%;
+    transform: translateX(-31%);
+    width: 160px;
+    }
+    .table-heading h2 {
+        font-size: 20px;
+    }
+    .table-image {
+        border-right: none;
+        border-bottom: solid 1px var(--hlt_clr);
+    }
+    .table-image p {
+        padding-bottom: 15px;
+    }
+    #farm-table {
+        padding-top: 50px;
+    }
+    #the-farm {
+        background-position: center top;
+        height: 400px;
+        margin-top: 60px;
+        background-size: cover;
+    }
+    .diamond-light-farm {
+        width: 650px;
+        height: 400px;
+        margin-left: 0;
+        margin-top: 50%;
+        border-radius: 5px;
+    }
+    .diamond-light-farm p {
+        width: 460px;
+    }
+    #gift {
+        padding-top: 75px;
+    }
+    #feature {
+        padding-top: 80px;
+    }
+    #people {
+        padding-top: 55%;
+    }
+    .people-content:after {
+        right: 18%;
+    transform: translateX(-22%);
+        top: 40%;
+    }
+    .people-content:before {
+        left: 30%;
+        transform: translateX(-30%);
+        top: 40%;
+    }
+    .people-review {
+        text-align: center;
+    }
+    .feature-content:after {
+        right: 22%;
+        transform: translateX(-22%);
+    }
+    .feature-content:before {
+        left: 32%;
+        transform: translateX(-32%);
+    }
+    .feature-image {
+        border-right: 0;
+        border-bottom: solid 1px var(--hlt_clr);
+        padding-bottom: 15px;
+    }
+    .feature-btn {
+        padding-top: 25px;
+    }
+    #happy-place {
+        background-position: center top;
+        background-repeat: no-repeat;
+        margin-top: 70px;
+        height: 400px;
+    }
+    .diamond-light-happy {
+        margin-left: 0;
+        margin-top: 50%;
+        border-radius: 5px;
+        width: 650px;
+        height: 590px;
+    }
+    .diamond-light-happy h2 {
+        padding-top: 25px;
+    }
+    .diamond-light-happy p {
+        width: 460px;
+    }
+    #important-food {
+        margin-top: 79%;
+    }
+    #important-food {
+        background-position: center top;
+        background-size: cover;
+        height: 400px;
+    }
+    .diamond-light-important {
+        margin-top: 50%;
+        width: 650px;
+        height: 535px;
+        border-radius: 5px;
+    }
+    .diamond-light-important p {
+        width: 460px;
+        
+    }
+
+
+
+    #box {
+        margin-top: 75%;
+        background-size: cover;
+        padding-top: 0;
+        background-position: center;
+    }
+    .box-content {
+        border-right: 0;
+        border-bottom: 1px solid var(--hlt_clr);
+        padding-bottom: 80px;
+    }
+    .box-content h2 {
+        padding-top: 65px;
+    }
+    
+    #footerbanner {
+        height: 400px;
+    }
+    .footerbanner-content h2 {
+        font-size: 32px;
+    }
+    .footerbanner-content span {
+        font-size: 34px;
+        padding: 0;
+    }
+    #footer {
+        padding-top: 30px;
+    }
+
+
+
+
+
+
+}
+
+
+
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    #the-farm {
+        background-position: left top;
+        height: 450px;
+        margin-top: 115px;
+    }
+    #bottom-banner {
+        padding: 30px 104px;
+    }
+    .diamond-light-farm h2 {
+        font-size: 32px;
+        padding-top: 25px;
+    }
+    .diamond-light-farm p {
+        font-size: 14px;
+        line-height: 20px;
+        padding-top: 10px;
+    }
+    .diamond-light-farm {
+        padding-left: 25px;
+        width: 360px;
+        border-radius: 5px;
+        height: 371px;
+    }
+    .people-content:after {
+        width: 170px;
+        right: 25%;
+        top: 40%;
+        transform: translateX(-25%);
+    }
+    .people-content:before {
+        left: 35%;
+        transform: translateX(-34%);
+        top: 40%;
+    }
+    .feature-content:after {
+        right: 28%;
+        transform: translateX(-28%);
+    }
+    .feature-content:before {
+        left: 37%;
+        transform: translateX(-36%);
+    }
+    #happy-place {
+        height: 620px;
+        margin-top: 110px;
+    }
+    .diamond-light-happy h2 {
+        font-size: 32px;
+        padding-top: 15px;
+    }
+    .diamond-light-happy {
+        padding-left: 30px;
+        width: 365px;
+        height: 550px;
+        border-radius: 5px;
+    }
+    .diamond-light-happy h3 {
+        font-size: 16px;
+        line-height: 20px;
+        padding-top: 15px;
+    }
+    .diamond-light-happy p {
+        font-size: 14px;
+        line-height: 20px;
+        padding-top: 10px;
+    }
+    #farm-cafe {
+        height: 600px;
+        margin-top: 110px;
+    }
+    .diamond-light {
+        padding-left: 30px;
+        padding-right: 30px;
+        width: 400px;
+        height: 500px;
+        border-radius: 5px;
+    }
+    .diamond-light h2 {
+        font-size: 32px;
+        padding-top: 25px;
+    }
+    .diamond-light h3 {
+        font-family: gothic;
+        font-size: 16px;
+        color: var(--text-clr);
+        text-transform: uppercase;
+        padding-top: 10px;
+    }
+    .diamond-light p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .cafe-btn a {
+        width: 150px;
+        padding: 13px 13px;
+    }
+    .cafe-last-btn {
+        padding: 13px 50px !important;
+    }
+    #important-food {
+        height: 620px;
+    }
+    .diamond-light-important h2 {
+        font-size: 32px;
+        padding-top: 25px;
+    }
+    .diamond-light-important p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .diamond-light-important {
+        padding-left: 30px;
+        padding-right: 20px;
+        width: 370px;
+        height: 535px;
+        border-radius: 5px;
+    }
+    .diamond-light-important h2:before {
+        width: 310px;
+    }
+    #box {
+        margin-top: 60px;
+        padding-bottom: 50px;
+    }
+    #bottombanner {
+        height: 450px;
+    }
+    .bottom-content > li {
+        padding: 14px 20px;
+    }
+    .banner-content h1 {
+        font-size: 55px;
+    }
+    #banner {
+        height: 500px;
+    }
+    .announce span {
+        width: 254px;
+    }
+    .announce p {
+        line-height: 20px;
+    }
+    .from-family h2 {
+        margin-top: 50px;
+    }
+    #eggplant {
+        margin-top: 26px;
+    }
+    #farm-table {
+        padding-top: 65px;
+    }
+    #people {
+        padding-top: 40px;
+        /* overflow-x: hidden; */
+    }
+    #gift {
+        padding-top: 75px;
+    }
+    #feature {
+        padding-top: 65px;
+    }
+    .footerbanner-content span {
+        padding: 0 5px;
+    }
+
+}
+
+
+
+
+
+
+/* extra responsive code */
+
+@media (min-width: 350px) and (max-width: 386px) {
+    .diamond-light {
+        margin-top: 61%;
+        height: 745px;
+    }
+    #eggplant {
+        margin-top: 224%;
+    }
+    #farm-cafe {
+        margin-top: 80px;
+    }
+    .table-image {
+        margin-top: 30px;
+    }
+    .diamond-light-farm {
+        margin-top: 52%;
+        height: 482px;
+    }
+    #people {
+        padding-top: 132%;
+    }
+    .people-content:before {
+        transform: translateX(-10%);
+    }
+    .people-content:after {
+        transform: translateX(-36%);
+    }
+    #feature {
+        padding-top: 50px;
+    }
+    #happy-place {
+        margin-top: 36px;
+    }
+    .diamond-light-happy {
+        margin-top: 52%;
+        height: 828px;
+    }
+    #important-food {
+        margin-top: 238%;
+    }
+    .diamond-light-important {
+        height: 787px;
+        margin-top: 52%;
+    }
+      #box {
+        margin-top: 224%;
+}
+.feature-content:after {
+    width: 113px;
+}
+
+
+}
+
+
+@media (min-width: 372px) and (max-width: 375px) {
+    .diamond-light {
+        margin-top: 61%;
+        height: 696px;
+    }
+    #eggplant {
+        margin-top: 197%;
+    }
+    .table-content:after {
+        width: 125px;
+    }
+    .table-content:after {
+        width: 125px;
+    }
+    .feature-content:before {
+        width: 120px;
+    }
+    .feature-content:after {
+        width: 125px;
+    }
+    #important-food {
+    margin-top: 231%;
+}
+}
+@media (min-width: 376px) and (max-width: 384px) {
+    .diamond-light {
+        height: 690px;
+    }
+    #eggplant {
+        margin-top: 190%;
+    }
+    .diamond-light-farm {
+        height: 500px;
+    }
+
+}
+
+
+
+
+
+@media (min-width: 385px) and (max-width: 417px) {
+    .diamond-light {
+        margin-top: 61%;
+        height: 630px;
+    }
+    #eggplant {
+        margin-top: 170%;
+    }
+    .diamond-light-farm {
+        margin-top: 53%;
+        height: 481px;
+    }
+    #people {
+        padding-top: 132%;
+    }
+    .feature-content:before {
+        width: 122px;
+    }
+    .feature-content:after {
+        width: 127px;
+    }
+    .diamond-light-happy {
+        margin-top: 51%;
+        height: 782px;
+    }
+    #important-food {
+        margin-top: 209%;
+    }
+    .diamond-light-important {
+        height: 718px;
+        margin-top: 53%;
+    }
+    .diamond-light-important h2:before {
+        width: 300px;
+    }
+    #box {
+        margin-top: 194%;
+    }
+    #feature {
+        padding-top: 52px;
+    }
+    .people-content:after {
+        transform: translateX(-33%);
+    }
+    .banner-btn a {
+        display: inline-block;
+    }
+    .banner-btn .banner-left {
+        width: 160px;
+        margin-right: 10px;
+    }
+    .banner-btn .banner-right {
+        height: 44px;
+        width: 150px;
+    }
+
+}
+
+@media (min-width: 418px) and (max-width: 574px) {
+    .diamond-light {
+        margin-top: 55%;
+        height: 572px;
+    }
+    .banner-btn .banner-left {
+        margin-right: 10px;
+    }
+    #farm-cafe {
+        margin-top: 60px;
+    }
+    #eggplant {
+        margin-top: 143%;
+    }
+    .table-content:before {
+        width: 137px;
+    }
+    .table-content:after {
+        width: 127px;
+        right: 48%;
+    }
+    .table-image {
+        margin-top: 14px;
+    }
+    .diamond-light-farm {
+        margin-top: 46%;
+        height: 481px;
+    }
+    #people {
+        padding-top: 118%;
+    }
+    .people-content:before {
+        width: 154px;
+    }
+    .people-content:after {
+        width: 154px;
+    }
+    #feature {
+        padding-top: 55px;
+    }
+    .feature-content:after {
+        width: 150px;
+    }
+    .feature-content:before {
+        width: 154px;
+        left: 16%;
+    }
+    #happy-place {
+        margin-top: 35px;
+    }
+    .diamond-light-happy {
+        margin-top: 46%;
+        height: 760px;
+    }
+    #important-food {
+        margin-top: 189%;
+    }
+    .diamond-light-important {
+        height: 698px;
+        margin-top: 48%;
+    }
+    .diamond-light-important h2:before {
+        width: 330px;
+    }
+    #box {
+        margin-top: 177%;
+    }
+}
